@@ -4,7 +4,7 @@ This repository provides a TensorFlow implementation of the following paper:
 > [Kwanseok Oh](https://scholar.google.co.kr/citations?user=EMYHaHUAAAAJ&hl=ko)<sup>1</sup>, [Jee Seok Yoon](https://scholar.google.co.kr/citations?user=YjaJ5qQAAAAJ&hl=ko)<sup>2</sup>, and [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1, 2</sup><br/>
 > (<sup>1</sup>Department of Artificial Intelligence, Korea University) <br/>
 > (<sup>2</sup>Department of Brain and Cognitive Engineering, Korea University) <br/>
-> (* indicates equal contribution) <br/>
+> (* indicates equal contribution) <br/> 
 > Official Version: https://ieeexplore.ieee.org/document/9854196 <br/>
 > Published in IEEE Transactions on Pattern Analysis and Machine Intelligence (2021 JCR-IF: 24.314, COMPUTER SCIENCE & ARTIFICIAL INTELLIGENCE: 2/144)
 > 

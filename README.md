@@ -84,15 +84,15 @@ xga_gen_weight_path = Pre-trained XGA-injected counterfactual map generator weig
 If you find this work useful for your research, please cite our [journal publication](https://ieeexplore.ieee.org/document/9854196):
 
 ```
-@ARTICLE{9854196,
+@ARTICLE{oh2022learn,
   author={Oh, Kwanseok and Yoon, Jee Seok and Suk, Heung-Il},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Learn-Explain-Reinforce: Counterfactual Reasoning and Its Guidance to Reinforce an Alzheimer's Disease Diagnosis Model}, 
   year={2022},
   publisher={IEEE},
-  volume={},
-  number={},
-  pages={1-15},
+  volume={45},
+  number={4},
+  pages={4843--4857},
   doi={10.1109/TPAMI.2022.3197845}}
 ```
 

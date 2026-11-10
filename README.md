@@ -1,5 +1,5 @@
 # Learn-Explain-Reinforce
-This repository provides a TensorFlow implementation of the following paper:
+This repository provides a TensorFlow implementation of the following paper: 
 > **Learn-Explain-Reinforce: Counterfactual Reasoning and Its Guidance to Reinforce an Alzheimer's Disease Diagnosis Model**<br>
 > [Kwanseok Oh](https://scholar.google.co.kr/citations?user=EMYHaHUAAAAJ&hl=ko)<sup>1,\*</sup>, [Jee Seok Yoon](https://scholar.google.co.kr/citations?user=YjaJ5qQAAAAJ&hl=ko)<sup>2,\*</sup>, and [Heung-Il Suk](https://scholar.google.co.kr/citations?user=dl_oZLwAAAAJ&hl=ko)<sup>1, 2</sup><br/>
 > (<sup>1</sup>Department of Artificial Intelligence, Korea University) <br/>
